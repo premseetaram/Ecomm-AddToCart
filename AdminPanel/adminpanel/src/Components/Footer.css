@@ -1,0 +1,9 @@
+.Footer{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.Footer div{
+text-align: center;
+color: white;
+background-color: black;
+}

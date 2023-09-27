@@ -1,0 +1,20 @@
+.appBody{
+  height: 95vh;
+  display: grid;
+}
+
+.appBody form{
+  display: grid;
+  grid-template-columns: auto;
+  margin: 2vw;
+}
+
+.appBody form input{
+  margin: 2vh 0vw;
+}
+
+.appBody h2{
+  margin: 2vw;
+  text-align: center;
+  padding-bottom:0vh ;
+}

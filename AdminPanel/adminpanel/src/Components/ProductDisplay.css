@@ -1,0 +1,20 @@
+.productCard{
+    display: grid;
+    grid-template-columns: auto;
+    text-align: center;
+    width: 30vw;
+    margin: 1vw;
+    background-color: beige;
+  }
+  .productArea h2{
+  text-align: center;  
+  }
+  
+  .productDisplay{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .productCard img{
+    width: 30vw;
+  }
